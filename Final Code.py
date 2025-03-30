@@ -241,7 +241,6 @@ print("3. Parallel Trends Check: Visualized pre-treatment trends for validation.
 print(f"4. Monte Carlo Simulation: P-value = {p_value} to test the significance of the observed treatment effect.")
 
 
-# In[ ]:
 
 
 
