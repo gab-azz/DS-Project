@@ -1,2 +1,2 @@
 # DataScience-GDPR-Project
- Assessed the impact of the EU's GDPR adoption on US tech stocks by comparing firms with varying European presence. Applied a Two-Way Fixed Effects Difference-in-Differences model and validated results through Monte Carlo Simulation in Python.
+This project analyzes the impact of the EU's GDPR adoption on US tech stocks by comparing firms with different levels of European market presence. It applies a Two-Way Fixed Effects Difference-in-Differences model and validates the robustness of the results through Monte Carlo Simulation in Python.
